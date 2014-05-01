@@ -11,7 +11,7 @@ For this to work:
 {
 	"commands": {
 		"/WORK_SPACE_DIR_EXAMPLE": [
-			"echo \"rsync -avz /WORK_SPACE_DIR_EXAMPLE REMOTE_SERVER_EXAMPLE.com:/home/ \" >> /tmp/cmds"
+			"echo \"rsync -avz /WORK_SPACE_DIR_EXAMPLE SERVER_EXAMPLE.com:/home/ \" >> /tmp/cmds"
 		]
 	}
 }
