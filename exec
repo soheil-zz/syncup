@@ -1,0 +1,7 @@
+#!/bin/bash
+
+while true; do
+  read stdin
+  echo $($stdin)
+  osascript -e 'display notification "Files updated!" with title "Success"'
+done
