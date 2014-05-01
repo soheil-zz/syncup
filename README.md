@@ -4,9 +4,10 @@ Sync up files
 Asyncly transfer files to a remote server.
 
 For this to work:
-* `Sublime`
-* `Command on Save` plugin for `Sublime`
-* This in `Command on Save` plugin preferences file:
+* Run `./syncup`
+* Use `Sublime`
+* Install `Command on Save` plugin for `Sublime`
+* Put this in `Command on Save` plugin preferences file:
 ```
 {
 	"commands": {
