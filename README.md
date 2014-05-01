@@ -16,3 +16,6 @@ For this to work:
 	}
 }
 ```
+
+
+![Sync up Notification](notification.png)
